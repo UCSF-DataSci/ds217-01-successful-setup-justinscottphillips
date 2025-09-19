@@ -5,7 +5,7 @@ Assignment 01 - Email Processing Script
 This script processes a UCSF email address and creates a hash for verification.
 Students run this script with their email to demonstrate basic CLI and Python skills.
 
-Usage: python process_email.py your_email@ucsf.edu
+Usage: python process_email.py justin.phillips@ucsf.edu
 """
 
 import sys
